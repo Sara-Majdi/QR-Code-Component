@@ -13,7 +13,7 @@ Design from Frontend Mentor:
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 
-My Design:
+My Design 🌐 :
 
 https://sara-majdi.github.io/QR-Code-Component/
 
